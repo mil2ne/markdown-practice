@@ -54,9 +54,9 @@ _이텔릭_
 
 # 이미지(Image)
 
-<!-- ![Heropy](https://heropy.blog/css/images/logo.png)
+![Heropy](https://heropy.blog/css/images/logo.png)
 
-[![Heropy](https://heropy.blog/css/images/logo.png)](https://heropy.blog/) -->
+[![Heropy](https://heropy.blog/css/images/logo.png)](https://heropy.blog/)
 
 # 인용문(BlockQuete)
 
